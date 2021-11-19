@@ -1,22 +1,43 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+[DC]Daniel Carroll
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[DC]Original assasins creed but in space, Assasins creed 4 eliments where its open world with a pirate ship, but in this case its 'open
+[DC]space' with a 'space' ship. Your a space pirate in this game.
 ...
 World Background
-main differences in your game world
+[DC]Its in space, rich with space lore of other pirate factions and 2 main governments every faction is at war and you must pick a
+[DC]side to join to lead to victory. Each world faction has its own background, beliefs and forms of governing
 ...
 Pillars
-3-4 fundementals of this game
+[DC]RPG - You pick your side and story.
+[DC]Stealth(its assasins creed).
+[DC]0 gravity space parkour.
+[DC]Fighting
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+[DC]Play as a free roaming space pirate, kill enemies, steal their cargo, loot and their ship to either keep and use to uprage your
+[DC]own gear or sell for pure profit and use your space credits to buy new gear, new ships and better weapons to steal more loot.
 ...
 Features points
-key selling points of your game
+[DC]Huge open world in space.
+[DC]Great combat system
+[DC]indept space economy system
+[DC]Multiple joinable factions
+[DC]Branching story based on player choices (joining one faction may doom another)
 ...
 Market analysis
-similar games , typical customer, expected sales
+Simalar games:
+	[DC]Assasins creed IV:Black Flag(Gameplay style)
+	[DC]Star Citizen(open world space)
+	[DC]Skyrim(Factions and rpg elements)
+	[DC]Elite Dangerous(Economy elements)
+typical customer:
+	[DC]Rpg fans
+	[DC]Assasins creed fans
+	[DC]Space game fans
+ expected sales:
+	[DC]10 million Units
+	[DC]At $60, $600,000,000 in Sales
