@@ -1,22 +1,37 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+[PJ]Pavol Janocko
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[PJ]You play as the Davey Jones, the most brutal in deadly pirate in all existance, in space. 
+[PJ]You hunt down space pirates in your Flying dutchman, butchering and plundering.
+[PJ]The goal is to travel the galaxy in hopes of finding legendary treasures lost in time.
 ...
 World Background
-main differences in your game world
+[PJ]The whole game is based in space and alien planets.
 ...
 Pillars
-3-4 fundementals of this game
+[PJ]Stealth, sneaking and assassinating.
+[PJ]Traveling the galaxy and exploring open world
+[PJ]PvE combat against a range of different difficulty enemies.
+[PJ]Sailing in space!!
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+[PJ]You sail the vast solar systems with your crew.
+[PJ]Fight enemy pirates and space marines with a vast library of weapons.
+[PJ]Parkour your way through space stations and ships as you search for loot to plunder.
+[PJ]Travel the vast open world galaxy in search for mythical treasures only ever hear of in tales.
+
+
 ...
-Features points
-key selling points of your game
+[PJ]Features points
+[PJ]Differnt never before seen combat system
+[PJ]More customisation than in any other AC game
+[PJ]Cheap
 ...
 Market analysis
-similar games , typical customer, expected sales
+[PJ]Similar to No Mans Sky
+[PJ]Target audience is sci-fi enthusiasts and history fanatics
+[PJ] 10 million
+
