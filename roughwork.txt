@@ -1,33 +1,47 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
-Title
-<<<<<<< HEAD
-<<<<<<< HEAD
-[DC]Daniel Carroll
 
+Title
+[dcr] Assasins creed lunar
+
+[DC]Daniel Carroll
+[PJ]Pavol Janocko
+[dcr]Dylan Crimmings
+
+Elevator pitch
 Elevator pitch 
+Describe your game in 30 seconds or less
+[dcr]In a fictional 2021,
 [DC]Original assasins creed but in space, Assasins creed 4 eliments where its open world with a pirate ship, but in this case its 'open
 [DC]space' with a 'space' ship. Your a space pirate in this game.
+[PJ]You hunt down other space pirates in your Flying dutchman, butchering and plundering.
+[PJ]The goal is to travel the galaxy in hopes of finding legendary treasures lost in time.
 ...
 World Background
 [DC]Its in space, rich with space lore of other pirate factions and 2 main governments every faction is at war and you must pick a
 [DC]side to join to lead to victory. Each world faction has its own background, beliefs and forms of governing
+[dcr]The story of the game will mainly revolve around conflict between the US and Russian which are the 2 main government factions.
 ...
 Pillars
-[DC]RPG - You pick your side and story.
-[DC]Stealth(its assasins creed).
+[dcr]Thrilling historical fiction story involving two super powers
+[PJ]Stealth, sneaking and assassinating.
 [DC]0 gravity space parkour.
-[DC]Fighting
+[PJ]PvE combat against a range of different difficulty enemies.
 ...
 30 second gameplay description
 [DC]Play as a free roaming space pirate, kill enemies, steal their cargo, loot and their ship to either keep and use to uprage your
 [DC]own gear or sell for pure profit and use your space credits to buy new gear, new ships and better weapons to steal more loot.
+[PJ]You sail the vast solar systems with your crew.
+[PJ]Parkour your way through space stations and ships as you search for loot to plunder.
+[PJ]Travel the vast open world galaxy in search for mythical treasures only ever hear of in tales.
 ...
 Features points
 [DC]Huge open world in space.
 [DC]Great combat system
 [DC]indept space economy system
 [DC]Multiple joinable factions
+[dcr]Multiple Endings
 [DC]Branching story based on player choices (joining one faction may doom another)
+[PJ]More customisation than in any other AC game
 ...
 Market analysis
 Simalar games:
@@ -39,83 +53,9 @@ typical customer:
 	[DC]Rpg fans
 	[DC]Assasins creed fans
 	[DC]Space game fans
+	[dcr]The typical customer would be a fan of open world games with immersive stories.
  expected sales:
 	[DC]10 million Units
 	[DC]At $60, $600,000,000 in Sales
-=======
-[PJ]Pavol Janocko
-
-Elevator pitch 
-[PJ]You play as the Davey Jones, the most brutal in deadly pirate in all existance, in space. 
-[PJ]You hunt down space pirates in your Flying dutchman, butchering and plundering.
-[PJ]The goal is to travel the galaxy in hopes of finding legendary treasures lost in time.
-...
-World Background
-[PJ]The whole game is based in space and alien planets.
-...
-Pillars
-[PJ]Stealth, sneaking and assassinating.
-[PJ]Traveling the galaxy and exploring open world
-[PJ]PvE combat against a range of different difficulty enemies.
-[PJ]Sailing in space!!
-...
-30 second gameplay description
-[PJ]You sail the vast solar systems with your crew.
-[PJ]Fight enemy pirates and space marines with a vast library of weapons.
-[PJ]Parkour your way through space stations and ships as you search for loot to plunder.
-[PJ]Travel the vast open world galaxy in search for mythical treasures only ever hear of in tales.
 
 
-...
-[PJ]Features points
-[PJ]Differnt never before seen combat system
-[PJ]More customisation than in any other AC game
-[PJ]Cheap
-...
-Market analysis
-[PJ]Similar to No Mans Sky
-[PJ]Target audience is sci-fi enthusiasts and history fanatics
-[PJ] 10 million
-
->>>>>>> PavolBranch
-=======
-insert team member names here
-[dcr]Assassin's Creed Lunar
-
-Elevator pitch 
-Describe your game in 30 seconds or less
-[dcr]In a fictional 2021, tsunamis are becoming the size of skyscrapers, wiping out swathes of people. The assassin's suspect
-[dcr]it is due to the moon's closer proximity to the earth in the past year. To uncover why this is happening, the assassin's
-[dcr]enter the animus and take on the role of a secret member of the Apollo 11 moon landing. Upon landing they discover the US and 
-[dcr]Soviet armies on the moon fighting a war unseen to the earth's population.
-...
-World Background
-main differences in your game world
-[dcr]The most notable difference in the world, the game is set entirely on the moon, with just a few sections taking place in
-[dcr]Houston 1969. The story of the game will mainly revolve around the fictional secret conflict between the US and Russian 
-[dcr]armies on the moon, which has caused consequences in the modern day world.
-...
-Pillars
-3-4 fundementals of this game
-[dcr]Open World exploration on a completely alien world
-[dcr]Side Quests with choices that matter
-[dcr]Multiple Endings
-[dcr]Sense of progression as you level your character and obtain new weapons
-...
-30 second gameplay description
-describe what its like to play the essence of the game loop
-[dcr]Complete story quests to progress the story, usually involving combat with combo strings, heavy attack light attack,
-and stealth. When a roadblock in difficulty is hit, the player can do sidequests to level and then return to the difficult mission.
-...
-Features points
-key selling points of your game
-[dcr]Completely new environment to the assassin's creed series
-[dcr]Thrilling historical fiction story involving two super powers
-[dcr]Engaging low gravity combat
-...
-Market analysis
-similar games , typical customer, expected sales
-[dcr]Similar games would be the rest of the Assassin's creed franchise, some Batman Arkham games and Super Mario Galaxy.
-[dcr]The typical customer would be a fan of open world games with immersive stories.
-[dcr]This game's expected sales would be around 10 million copies.
->>>>>>> DylanBranch
